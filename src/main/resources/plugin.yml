@@ -1,0 +1,11 @@
+name: Fly
+version: '${version}'
+
+main: me.matr0nic.fly.Fly
+api-version: '26.1'
+
+commands:
+  fly:
+    description: Gain the ability to fly
+    usage: /<command>
+    permission: fly.fly
