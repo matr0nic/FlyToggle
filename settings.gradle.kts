@@ -1,1 +1,1 @@
-rootProject.name = "Fly"
+rootProject.name = "FlyToggle"

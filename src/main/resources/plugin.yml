@@ -1,7 +1,7 @@
-name: Fly
+name: FlyToggle
 version: '${version}'
 
-main: me.matr0nic.fly.Fly
+main: me.matr0nic.fly.FlyToggle
 api-version: '26.1'
 
 commands:
